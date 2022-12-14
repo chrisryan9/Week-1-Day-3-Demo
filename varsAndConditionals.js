@@ -54,3 +54,5 @@ while(ObiwanHealth > 0){
     if(ObiwanHealth <= 0)
     console.log("Obi-wan has been slain. At least we don't have to deal with Rey.")
 }
+
+console.log('This was a good fight. Kinda..')
